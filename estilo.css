@@ -1,0 +1,95 @@
+body {
+    background: rgb(33, 40, 73);
+    font: normal 15pt Arial;
+    background-image: url(https://www.coachingwilliam.com/wp-content/uploads/2018/01/Deep-Sea.jpg);
+
+    background-position: center center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+
+
+}
+
+header{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background: rgba(23, 26, 58, 0.856);
+    width: 700px;
+    margin-left: 610px;
+    box-shadow: 10px 10px 15px rgb(255, 255, 255);
+    border-radius: 15px;
+    font: italic 23pt Arial;
+    
+
+}
+
+div#pro{
+    text-align: center;
+    font: normal 20pt Arial;
+    color: rgb(0, 0, 0);
+}
+
+p#jogo{
+    text-align: center;
+    font: normal 35pt Arial;
+    color: rgb(0, 0, 0);
+}
+
+footer {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: italic;
+
+}
+
+div#verme {
+    color: red;
+    background: black;
+    text-align: center;
+    font: arial 15pt Arial;
+    width: 300px;
+    margin: auto;
+
+}
+
+p#bem{
+    color: rgb(255, 255, 255);
+    background:rgb(23, 26, 58, 0.856);
+    margin-top: 550px;
+}
+
+.loki {
+    background-color: #160f3b; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40%;
+    margin: 4px 2px;
+    cursor: inherit;
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px rgb(255, 255, 255);
+    
+    
+    
+}
+
+.raba {
+    background-color: #160f3b; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40%;
+    margin: 4px 2px;
+    cursor: zoom-out;
+    border-radius: 50px;
+    box-shadow: 10px 10px 15px rgb(255, 255, 255);
+    
+    
+    
+}
